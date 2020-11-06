@@ -1,3 +1,14 @@
+You can run this app by installing all dependencies. Run script in root directory, then run it.
+npm install
+npm start
+
+There is console error, but it is due to usage of external library, redux-forms. 
+https://github.com/redux-form/redux-form/issues/3954
+
+All the best. Cheers!
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
