@@ -1,0 +1,21 @@
+.forma {
+    display: flex;
+    justify-content: center;
+}
+
+.field-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+}
+
+.field {
+    margin-right: 10px;
+    width: 400px;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 14px;
+    max-width: calc(100vw - 100px);
+}

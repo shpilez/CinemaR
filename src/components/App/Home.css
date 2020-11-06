@@ -1,0 +1,17 @@
+.react-tabs__tab-list {
+  list-style: none;
+}
+
+.react-tabs__tab {
+  font-size: 18px;
+  color: #ededed;
+  cursor: pointer;
+  padding: 4px;
+  width: 240px;
+  border-radius: 7px;
+}
+
+.react-tabs__tab--selected {
+  color: aquamarine;
+  background-color: #2c2c2c;
+}
